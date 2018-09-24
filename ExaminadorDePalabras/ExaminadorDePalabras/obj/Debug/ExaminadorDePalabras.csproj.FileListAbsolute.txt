@@ -1,0 +1,10 @@
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\bin\Debug\ExaminadorDePalabras.exe.config
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\bin\Debug\ExaminadorDePalabras.exe
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\bin\Debug\ExaminadorDePalabras.pdb
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\obj\Debug\ExaminadorDePalabras.csprojAssemblyReference.cache
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\obj\Debug\ExaminadorDePalabras.Form1.resources
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\obj\Debug\ExaminadorDePalabras.Properties.Resources.resources
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\obj\Debug\ExaminadorDePalabras.csproj.GenerateResource.cache
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\obj\Debug\ExaminadorDePalabras.csproj.CoreCompileInputs.cache
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\obj\Debug\ExaminadorDePalabras.exe
+C:\Users\XZeromarx Asus\source\repos\ExaminadorDePalabras\ExaminadorDePalabras\obj\Debug\ExaminadorDePalabras.pdb
